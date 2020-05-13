@@ -2,7 +2,6 @@ title: love chat room
 logo: /assets/img/logo.png
 description: 
 show_downloads: false
-google_analytics:
+google_analytics: 
 
 
-theme: jekyll-theme-cayman
